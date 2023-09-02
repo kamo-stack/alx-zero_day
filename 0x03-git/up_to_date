@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull origin master
+=======
+git pull https://github.com/kamo-stack/alx-zero_day
+>>>>>>> update_script
